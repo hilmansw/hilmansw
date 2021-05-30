@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ![Xampp](https://img.shields.io/badge/-Xampp-000000?style=flat&logo=Xampp)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
 
-<img src="https://komarev.com/ghpvc/?username=https://komarev.com/ghpvc/&color=blue&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=hilmansw&color=blue&style=flat-square" align="left" />
