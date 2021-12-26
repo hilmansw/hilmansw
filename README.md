@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>My Name Hilman Singgih Wicaksana</b> <br>
+<b>My name is Hilman Singgih Wicaksana</b> <br>
 
 ![Hilman GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmansw&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmansw&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
