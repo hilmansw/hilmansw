@@ -18,22 +18,20 @@ Here are some ideas to get you started:
 
 ![Hilman GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmansw&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmansw&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-<a href="https://www.instagram.com/hilmansinggihw" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://api.whatsapp.com/send?phone=6281325073515&text=Halo, Mas Hilman. Salam kenal ya" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=flat-square&logo=whatsapp&logoColor=dark" alt="WA"></a>
-##### Languages I use
+<a href="https://www.instagram.com/hilmansinggihw" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send?phone=6281325073515&text=Halo, Mas Hilman. Salam kenal ya" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23000000.svg?&style=flat-square&logo=whatsapp&logoColor=dark" alt="WA"></a>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+##### Languages I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
-##### Some of the technologies I have worked with
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
-![Xampp](https://img.shields.io/badge/-Xampp-000000?style=flat&logo=Xampp)
+##### Some of the technologies I have worked with
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vuedotjs)
+![React](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=React)
 
 <img src="https://komarev.com/ghpvc/?username=hilmansw&color=blue&style=flat-square" align="left" />
