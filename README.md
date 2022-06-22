@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ##### Languages I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
