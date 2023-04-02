@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20"></h2>
+# Hi there, I am Hilman Singgih Wicaksana. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20">
 
 <!--
 **hilmansw/hilmansw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>My name is Hilman Singgih Wicaksana</b> <br>
 
 ![Hilman GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmansw&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmansw&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
