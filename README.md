@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![Hilman GitHub stats](https://github-readme-stats.vercel.app/api?username=hilmansw&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmansw&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-<a href="https://www.instagram.com/hilmansinggihw" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://api.whatsapp.com/send?phone=6281325073515&text=Halo, Mas Hilman. Salam kenal ya" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23000000.svg?&style=flat-square&logo=whatsapp&logoColor=dark" alt="WA"></a>
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -32,6 +30,10 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-000000?style=for-the-badge&logo=React&logoColor=white)
+
+## Social Media
+<a href="https://www.instagram.com/hilmansinggihw" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send?phone=6281325073515&text=Halo, Mas Hilman. Salam kenal ya" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%23000000.svg?&style=flat-square&logo=whatsapp&logoColor=dark" alt="WA"></a>
 
 ## Visitors
 <img src="https://komarev.com/ghpvc/?username=hilmansw&color=blue&style=flat-square" align="left" />
